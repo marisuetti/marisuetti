@@ -1,5 +1,7 @@
 ## Hi there 👋
-<i class="devicon-html5-plain-wordmark"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+          
 <!--
 **marisuetti/marisuetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
