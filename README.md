@@ -1,7 +1,7 @@
-# Welcome!
+# Welcome! I'm Maria 😺
 <div>
 <a href="https://github.com/marisuetti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisuetti&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisuetti&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
   
 ## Learning
